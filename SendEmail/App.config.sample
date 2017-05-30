@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+  </startup>
+  <appSettings>
+    <add key="ChilkatUnlockKey" value="****"></add>
+    <add key="SmtpHost" value="@SmtpHost@"></add>
+    <add key="SmtpPort" value="@SmtpPort@"></add>
+    <add key="CryptoProtocol" value="@CryptoProtocol@"></add><!-- 0 nothing 1 ssl 2 tls -->
+    <add key="SmtpUsername" value="@SmtpUsername@"></add>
+    <add key="SmtpPassword" value="@SmtpPassword@"></add>
+  </appSettings>
+</configuration>
